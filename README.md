@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @arinde
-- 👀 I’m interested in ...front end programming 
-- 🌱 I’m currently learning ...front end programming 
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Arinde
+- 🌱 I’m currently learning front end programming 
+- 💞️ I’m looking to collaborate on amazing frontend projects
 - 📫 How to reach me ...arindevictor8@gmail.com
 
 <!---
