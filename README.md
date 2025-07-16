@@ -42,7 +42,7 @@
 - 🛒 [Tech Gadget E-commerce Store](https://vision-tech-delta.vercel.app/)  
   Full-featured e-commerce platform with Firebase Auth, Firestore DB, Email.js for order confirmation, wishlist, and search features.
 
-- 🤖 [Jay Xchange Giftcard Trading Company] (https://jay-xchange.vercel.app/)
+- 🤖 [Jay Xchange Giftcard Trading Company](https://jay-xchange.vercel.app/)
   Landing Page for  crypto compan, to help gain more customers and build online presence trust
 
 ---
