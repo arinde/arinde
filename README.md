@@ -8,7 +8,7 @@
 ---
 
 - 🔭 I’m currently working on:  
-  `Westmat Ltd` (a civil engineering company website) and a personal **NFT DApp**  
+  `BSPACES` **a socail media webapp** and `BOLTZAI` **an AI agent**  
 - 🌱 Learning: **Rust** and building with **Web3 tools**
 - 🛠️ Tools: `React`, `Next.js`, `TypeScript`, `Tailwind CSS`, `Firebase`, `Zustand`, `Framer Motion`, `Three JS`, `GSAP`
 - 👨🏾‍💻 I’m open to remote roles, internships & freelance projects
